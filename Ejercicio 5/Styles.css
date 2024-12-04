@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    margin: auto;
+}
+header {
+    text-align: center;
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+section {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr))
+}
+footer {
+    text-align: center;
+    background-color: #333333;
+    color: #ffffff;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
